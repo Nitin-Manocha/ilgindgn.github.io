@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sections on Ilgin Dogan</title>
-    <link>/sections/</link>
-    <description>Recent content in Sections on Ilgin Dogan</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <title>Sections on Nitin Manocha</title>
+    <link>https://nitin-manocha.github.io/sections/</link>
+    <description>Recent content in Sections on Nitin Manocha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://nitin-manocha.github.io/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/sections/AboutMe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/AboutMe/</guid>
-      <description>I am a Ph.D. candidate in Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley (UCB). My academic advisors are Anil Aswani and Zuo-Jun Max Shen. Prior to joining UCB, I received B.S. and M.S. degrees in Industrial Engineering at the Middle East Technical University.</description>
+      <title>About Me</title>
+      <link>https://nitin-manocha.github.io/sections/AboutMe/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nitin-manocha.github.io/sections/AboutMe/</guid>
+      <description>I am Commander Nitin Manocha, an accomplished military leader with 14 years of experience in the Indian Navy. Currently, I am transitioning to the corporate sector and working as an Associate Director – Quality Assurance at KAMS Global Bahrain. I hold multiple degrees, including an MBA and an M.Tech in Aerospace Engineering from IISc Bangalore. My expertise spans strategic operations, aviation safety, quality assurance, and digital transformation. I am also actively pursuing a Ph.D. and exploring opportunities in academia and research.</description>
     </item>
-    
   </channel>
 </rss>

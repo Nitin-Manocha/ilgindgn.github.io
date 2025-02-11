@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Ilgin Dogan</title>
+    <title>Homepage of Commander Nitin Manocha</title>
     <link>/</link>
-    <description>Recent content in Homepage on Ilgin Dogan</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hidden/</guid>
-      <description>Testing the idea that a &amp;lsquo;hidden&amp;rsquo; page is built but not linked to.</description>
-    </item>
+    <description>Recent content in Homepage on Nitin Manocha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>/sections/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/sections/aboutme/</guid>
-      <description>I am a Ph.D. candidate in Industrial Engineering and Operations Research (IEOR) <a href = https://ieor.berkeley.edu/at target="blank"> the University of California, Berkeley (UCB). My academic advisors are Anil Aswani <a href = https://aswani.ieor.berkeley.edu/ target="blank"> and Zuo-Jun Max Shen <a href = https://shen.ieor.berkeley.edu/  target="blank">. Prior to joining UCB, I received B.S. and M.S. degrees in Industrial Engineering at the Middle East Technical University.</description>
+      <description>I am Commander Nitin Manocha, an accomplished leader with expertise in aviation technology, quality assurance, digital transformation, and defense business development. Passionate about AI, data science, and academia. My academic journey includes an M.Tech in Aerospace Engineering from IISc Bengaluru, and a Defence Business Management Program from IIM Lucknow.</description>
     </item>
     
-
+    <item>
+      <title>Work Experience</title>
+      <link>/sections/workexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/workexperience/</guid>
+      <description>Currently serving as Associate Director – Quality Assurance at KAMS Global Bahrain, previously Deputy Director – Operations (Aviation Tech.) at Indian Navy. My expertise includes system safety, predictive maintenance, and digital transformation initiatives.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/sections/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/education/</guid>
+      <description>Defence Business Management Program from IIM Lucknow, M.Tech in Aerospace Engineering from IISc Bengaluru, and B.Tech in Mechanical Engineering from Maharshi Dayanand University.</description>
+    </item>
+    
+    <item>
+      <title>Technical Skills</title>
+      <link>/sections/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/skills/</guid>
+      <description>Expert in System Safety (ARP4761, Mil-STD-882), Reliability Analysis (FMEA, FTA, RAMS), Predictive Maintenance, Digital Transformation, and AI & Data Science (Python, Power BI).</description>
+    </item>
     
   </channel>
 </rss>

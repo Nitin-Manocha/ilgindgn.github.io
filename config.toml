@@ -1,16 +1,16 @@
 relativeURLs = true
-title = "Paul Clist"
+title = "Nitin Manocha"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 googleAnalytics = "UA-90755326-1"
 
-
 [params]
-    shortbio = "Associate Professor of Development Economics, University of East Anglia"
+    shortbio = "Associate Director – Quality Assurance, Ex-Indian Navy"
     logo = "portrait.jpg"
-    Twitter = "paulclist"
-    Orcid = "0000-0001-9338-9446"
-    Email = "paul.clist@uea.ac.uk"
-    Scholar = "citations?user=QnRgQi4AAAAJ&hl=en"
+    Twitter = "nitinmanocha"
+    Orcid = "0000-0000-0000-0000"
+    Email = "ernitin1989@gmail.com"
+    Scholar = "citations?user=XXXXXX&hl=en"
+
