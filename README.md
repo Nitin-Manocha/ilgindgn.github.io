@@ -1,4 +1,4 @@
 
-### [Ilgin Dogan's Personal Website](https://ilgindgn.github.io)
+### [Nitin Manocha's Personal Website](https://nitin-manocha.github.io)
 
-This was forked from Paul Clist. 
+This was forked from Ilgin Dogan. 
